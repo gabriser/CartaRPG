@@ -7,6 +7,7 @@
 <body>
 
 <h1>Formulari Git</h1>
+<h3>Versió 0.2 Beta</h3>
 
 <form action="validate.php" method="POST">
 
